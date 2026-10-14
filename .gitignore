@@ -1,0 +1,12 @@
+# Entropy files
+.entropy/
+.env
+.env/
+.env.*
+*.entropy
+entropy/
+
+# dotenv variables (https://entropy.ws) for info
+.env
+env.*
+.env/
