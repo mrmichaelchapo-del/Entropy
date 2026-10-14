@@ -10,3 +10,7 @@ entropy/
 .env
 env.*
 .env/
+
+# Top-level files
+.log
+*.log
